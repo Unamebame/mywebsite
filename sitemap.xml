@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://unamebame.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://unamebame.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://unamebame.github.io/mywebsite/buy-our-cookies-now.html</loc>
+<lastmod>2025-10-24T12:23:37+02:00</lastmod>
+<image:image>
+<image:loc>https://unamebame.github.io/mywebsite/media/posts/3/images-6-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://unamebame.github.io/mywebsite/chocolate-chip-cookies.html</loc>
+<lastmod>2025-10-24T12:11:34+02:00</lastmod>
+<image:image>
+<image:loc>https://unamebame.github.io/mywebsite/media/posts/1/download-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://unamebame.github.io/mywebsite/the-different-cookies-we-sell.html</loc>
+<lastmod>2025-10-24T12:17:15+02:00</lastmod>
+<image:image>
+<image:loc>https://unamebame.github.io/mywebsite/media/posts/2/Wyoming-Cowboy-Cookies_EXPS_THCA22_792_B-E10_22_2b.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://unamebame.github.io/mywebsite/media/posts/2/exps29094_CC153599B01_13_2b-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://unamebame.github.io/mywebsite/media/posts/2/Chocolate-Cake-Cookies_EXPS_HCABZ21_37309_E06_04_3b-4.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://unamebame.github.io/mywebsite/media/posts/2/Coconut-Chocolate-Chip-Cookies_EXPS_BOBMZ22_12642_E10_07_5b.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://unamebame.github.io/mywebsite/media/posts/2/Chocolate-Pecan-Skillet-Cookie_EXPS_CIMZ17_213117_B09_16_4b-4.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
